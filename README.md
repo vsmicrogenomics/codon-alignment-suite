@@ -67,7 +67,7 @@ To generate a Newick tree using codon alignment, add the `-tree` option to any o
 -   `-translate`: Translate nucleotide sequences to protein if protein file is not provided
 
 ## Example Input and Output
-### Command Used: python CodonAlignmentSuite.py zur.ffn -translate -aligner mafft -codontable 11 -output clustal -outputfile output.aln -tree
+**Command Used**: `python CodonAlignmentSuite.py zur.ffn -translate -aligner mafft -codontable 11 -output clustal -outputfile output.aln -tree`
 ### Input File: `zur.ffn`
 ### Output Files
 -   **Aligned Sequences**: `output.aln`
