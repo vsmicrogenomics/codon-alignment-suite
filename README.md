@@ -32,6 +32,10 @@ python CodonAlignmentSuite.py prot_seq.fasta nuc1.fasta nuc2.fasta -align_prot -
 
 To generate a Newick tree using codon alignment, add the `-tree` option to any of the above commands.
 
+## Help
+
+    python CodonAlignmentSuite.py --help
+    
 ## Command-line Options
 
 -   `pep_aln` (optional): Protein alignment file in CLUSTAL or FASTA format
