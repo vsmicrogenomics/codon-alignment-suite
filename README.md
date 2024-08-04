@@ -72,7 +72,8 @@ To generate a Newick tree using codon alignment, add the `-tree` option to any o
 
 ## Example Input and Output
 **Command Used**: `python CodonAlignmentSuite.py zur.ffn -translate -aligner mafft -codontable 11 -output clustal -outputfile output.aln -tree`
-### Input File: `zur.ffn`
+### Input File: 
+-   **Nucleotide sequences**: `zur.ffn`
 ### Output Files
 -   **Aligned Sequences**: `output.aln`
 -   **Newick Tree**: `output.nwk`
