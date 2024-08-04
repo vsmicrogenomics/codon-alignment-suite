@@ -75,7 +75,7 @@ To generate a Newick tree using codon alignment, add the `-tree` option to any o
 
 ## Citation
 
-If you are using the `CodonAlignmentSuite.py` script, please cite it as follows: Sharma, V. (2023). CodonAlignmentSuite.py [Python script]. Retrieved from [https://github.com/vsmicrogenomics/codon-alignment-suite](https://github.com/vsmicrogenomics/codon-alignment-suite)
+If you are using the `CodonAlignmentSuite.py` script, please cite it as follows: Sharma, V. (2024). CodonAlignmentSuite.py [Python script]. Retrieved from [https://github.com/vsmicrogenomics/codon-alignment-suite](https://github.com/vsmicrogenomics/codon-alignment-suite)
 
 ## Acknowledgements
 
